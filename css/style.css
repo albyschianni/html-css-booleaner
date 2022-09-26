@@ -1,11 +1,13 @@
-div img{
-    background-color: #4ea0ff;
-    
+header{
+    background-repeat: repeat-x;
     
 }
 
 .parte-alta{
-    display: inline-block;
+    background-color: #4ea0ff;
+    background-image: url(../img/pattern.png);
+    
+   
 } 
 tr td{
     size: 33%;
